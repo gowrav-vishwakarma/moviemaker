@@ -1,0 +1,7 @@
+Qwen Image / Image Edit prompt guide
+====================================
+
+Instruction edits: "replace the jacket with a red leather one", "put the product on a marble counter".
+Qwen Image Edit Plus is strong at combining multiple subjects and rendering long on-image text.
+Reference syntax: Image 1, Image 2. Mention each image's job.
+Best around 1024–1328 px. Keep text in quotes if it must appear in the picture.

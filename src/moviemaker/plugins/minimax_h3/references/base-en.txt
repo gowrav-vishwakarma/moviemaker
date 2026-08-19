@@ -1,0 +1,17 @@
+MiniMax H3 FL2VA (First/Last-Frame to Video+Audio) prompt guide
+==============================================================
+
+Write a cinematic, shot-based prompt. Prefer timed shot lists:
+
+[0-3s] Close-up of the singer. Warm key light. Natural lip motion. Camera: slow push-in.
+[3-8s] Wider two-shot of singer and pianist. Steam from a glass. Camera: gentle pan right.
+
+Audio direction should be explicit:
+- overall_soundscape: room tone, audience hush, distant glasses
+- non_diegetic_music: none / soft jazz bed
+- dialogue or sung lines in quotes
+
+First frame (Image 1 / image_start) is the opening composition.
+Last frame (Image 2 / image_end) is the closing composition.
+Keep identity, wardrobe, and lighting consistent with those stills.
+Avoid: morphing faces, extra fingers, sudden costume changes, silent mouths when singing.

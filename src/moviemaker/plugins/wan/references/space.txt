@@ -1,0 +1,14 @@
+Wan prompt guide (SPACE)
+========================
+
+Keep one shot per generation. Use SPACE:
+
+Subject: who / what is on camera, appearance, wardrobe
+Performance: action, expression, lip motion
+Ambience: location, time of day, weather, practical lights
+Camera: one move only (static, pan, tilt, dolly, tracking)
+Extra: style, lens, film stock, negative constraints
+
+Reference syntax: Image1, Video1, Audio1 (no spaces).
+Prefer 80–150 words. Avoid multiple competing camera moves.
+Wan 2.2 often uses two guidance phases (high/low noise).

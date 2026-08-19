@@ -1,0 +1,9 @@
+LTX-2 prompt guide
+==================
+
+Write concise cinematic natural language. Include spoken lines in quotes.
+Describe camera as part of the prose ("the camera slowly pans right...").
+Optional camera_motion field: pan_right, dolly_in, static, handheld, orbit, crane_up.
+Duration can be left to the model; when set, keep shots that fit the window.
+Supports start/end keyframes and sliding-window continuation up to ~20s.
+Distilled checkpoints use fewer steps (around 8). GGUF Q4 is the low-VRAM path.

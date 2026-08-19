@@ -1,0 +1,13 @@
+MiniMax H3 Ref2VA prompt guide
+==============================
+
+Reference-to-Video-and-Audio. Mention each reference by job:
+
+Image 1 = identity / face (do not change age, ethnicity, or facial structure)
+Image 2 = setting / background
+Image 3 = wardrobe or product
+Video 1 = motion reference
+Audio 1 = voice or music bed
+
+Syntax: refer to "Image 1", "Image 2" in the prompt. Keep one camera move per shot.
+Timed shots still apply. Preserve identity across cuts.

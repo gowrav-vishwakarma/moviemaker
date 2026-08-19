@@ -1,0 +1,9 @@
+FLUX prompt guide
+=================
+
+Natural language, photographic or illustration direction.
+Kontext / USO / DreamOmni variants accept one or more reference images and an edit instruction.
+Keep instructions short for edits ("add a hat", "change background to dusk rooftop").
+For generation, describe subject, lighting, lens, and composition.
+Reference images: Image 1, Image 2. Match identity when editing.
+Typical steps: 20–28 (dev), fewer for turbo/klein variants.
